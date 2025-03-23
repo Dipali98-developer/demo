@@ -1,2 +1,2 @@
 # demo
-Author - Dipali Redekar
+Author - Dipali Redekar (Developer)
